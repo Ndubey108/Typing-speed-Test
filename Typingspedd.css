@@ -5,6 +5,7 @@
     box-sizing:border-box;
     font-family:'Poppins',sans-serif;
 }
+
 body{
     display:flex;
     align-items:center;
@@ -12,6 +13,9 @@ body{
      min-height:100vh;
     background-color:#17a2b8;
 }
+h3{
+    position:relative;
+    top:4px;}
 .wrapper{
     background-color: white;
     padding:30px;
