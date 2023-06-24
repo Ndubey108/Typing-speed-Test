@@ -14,7 +14,7 @@ body{
     background-color:#17a2b8;
 }
 h3{
-    position:relative;
+    position:absolute;
     top:4px;}
 .wrapper{
     background-color: white;
